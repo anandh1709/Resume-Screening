@@ -65,7 +65,7 @@ The system employs a cooperative agent design where outputs from one agent serve
 python main.py
 # The API will start on localhost:5000 (or configured port)
 ```
-### Start the Frontend
+**Step 2: Start the Frontend (Streamlit)**
 ```bash
 streamlit run streamlit.py
 ```
