@@ -75,6 +75,6 @@ streamlit run streamlit.py
 To facilitate immediate testing without requiring personal data, we have included sample files in the root directory:
 
 * Launch the Streamlit interface.
-* Upload Job_Description.pdf (provided) as the target JD.
-* Upload Sample_Resume.pdf (provided) as the candidate.
+* Upload Job_Description.pdf as the target JD.
+* Upload Sample_Resume.pdf as the candidate.
 * The system will generate a match score and evaluation report.
